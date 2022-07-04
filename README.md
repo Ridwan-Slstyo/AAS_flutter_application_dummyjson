@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Flutter Dummy JSON
 
-This project is a starting point for a Flutter application.
+This repository contains the source code of TOKO ELEKTRONIK, an example of getting data from the DummyJSON API to display in an application using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
