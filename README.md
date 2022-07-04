@@ -6,8 +6,8 @@ A new Flutter project.
 
 This repository contains the source code of TOKO ELEKTRONIK, an example of getting data from the DummyJSON API to display in an application using Flutter.
 
-![Logo](https://github.com/Ridwan-Slstyo/AAS_flutter_application_dummyjson/blob/b1d6fc8c4ebcbc1eb3b7a5b43494abd13a89f6e7/layout.png)
-![Logo](https://github.com/Ridwan-Slstyo/AAS_flutter_application_dummyjson/blob/ee1fba3294a9d0efb5b7680bcb4b816a136586e7/Kesesuaian%20konten%20data%20yang%20ditampilkan.png)
+![Logo](https://github.com/Ridwan-Slstyo/AAS_flutter_application_dummyjson/blob/808fac7356d17bc308a639919186fc22aa547992/layout.png)
+![Logo](https://github.com/Ridwan-Slstyo/AAS_flutter_application_dummyjson/blob/808fac7356d17bc308a639919186fc22aa547992/Kesesuaian%20konten%20data%20yang%20ditampilkan.png)
 
 
 A few resources to get you started if this is your first Flutter project:
